@@ -6,6 +6,13 @@
 var Utils = {};
 
 /**
+ * Add item to array
+ */
+Utils.add = function () {
+
+};
+
+/**
  * Update array value based on index
  */
 Utils.update = function () {
@@ -37,3 +44,6 @@ Utils.getPosition = function () {
 var bonusMoneyIds = [1,2,3,4,5,6];
 var freeSpinIds = [12,13,14,15];
 
+/**
+ * @todo: Utils usage examples
+ */
