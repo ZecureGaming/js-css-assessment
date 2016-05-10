@@ -1,0 +1,44 @@
+
+#social-widget {
+    background: #fff;
+    width: 100%;
+}
+
+#social-widget header {
+    background: #dadada;
+}
+
+#social-widget header h2 {
+    font-size: 24px;
+    text-transform: uppercase;
+    padding: 10px;
+    color: #343434;
+}
+
+#social-widget section {
+    padding: 0 10px;
+}
+
+#social-widget section ul {
+    list-style: none;
+}
+
+#social-widget section ul li {
+    display: block;
+    margin-bottom: 10px;
+    padding: 0;
+}
+
+#social-widget section ul li:first-child {
+    margin-top: 10px;
+}
+
+#social-widget footer {
+    padding: 10px;
+    background: #dadada;
+}
+
+#social-widget footer p {
+    color: #343434;
+    text-align: center;
+}
