@@ -40,9 +40,22 @@ Utils.getPosition = function () {
 
 };
 
+/**
+ * Sort array of integers in ascending order
+ */
+Utils.sortAscending = function() {
 
-var bonusMoneyIds = [1,2,3,4,5,6];
-var freeSpinIds = [12,13,14,15];
+};
+
+/**
+ * Sort array of integers in descending order
+ */
+Utils.sortDescending = function() {
+
+};
+
+var bonusMoneyIds = [2,6,3,10,5,1,4,11];
+var freeSpinIds = [15,14,12,13];
 
 /**
  * @todo: Utils usage examples
