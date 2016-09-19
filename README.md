@@ -2,7 +2,7 @@
 Rizk Javascript and CSS Assessment
 ===========================
 Please solve the challenges described below and publish your results by forking this repository and making your own versions
-of the files in question. When your implementation is done, please create a pull request and we will review your code.
+of the files in question. When your implementation is done, please create a private gist or email us your work and we will review your code.
 
 CSS and HTML
 ---
